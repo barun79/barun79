@@ -40,13 +40,27 @@
 ### 🗂️ Featured Projects
 
 🎬 [Movie Recommendation App](https://github.com/barun79/react_movie_app)
-<a href="https://mymovierecomendation.netlify.app/">
-  <img src="movie_app.jpeg" alt="Movie App" width="300"/>
-</a>
-A clean and responsive React-based app that recommends trending movies using the TMDB API. Features include search, genre filters, and dynamic routing.
-> 💡 Tech: JavaScript, React, Axios, TMDB API, React Router
----
+#### 🎬 Movie Recommendation App
 
+<table>
+  <tr>
+    <td width="40%">
+      <a href="https://mymovierecomendation.netlify.app/">
+        <img src="movie_app.jpeg" alt="Movie App" width="100%" />
+      </a>
+    </td>
+    <td width="60%">
+      <p>
+        A clean and responsive React-based app that recommends trending movies using the TMDB API. <br><br>
+        🔍 Features include search, genre filters, and dynamic routing.<br><br>
+        💡 <strong>Tech:</strong> JavaScript, React, Axios, TMDB API, React Router <br><br>
+        🔗 <a href="https://github.com/barun79/react_movie_app">View Code</a> |
+        <a href="https://mymovierecomendation.netlify.app/">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+------
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/barun-singh-02b131248/)
