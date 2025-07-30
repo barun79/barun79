@@ -40,7 +40,7 @@
 ### 🗂️ Featured Projects
 #### 🎬 [Movie Recommendation App](https://github.com/barun79/react_movie_app)
 
-<p align="center">
+<p align="left">
   <a href="https://mymovierecomendation.netlify.app/">
     <img src="movie_recommendation-ezgif.com-crop.gif" alt="Movie App Screenshot" width="500" />
   </a>
