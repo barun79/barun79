@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://mymovierecomendation.netlify.app/">
-    <img src="movie_app.jpeg" alt="Movie App Screenshot" width="500" />
+    <img src="movie_recommendation.gif" alt="Movie App Screenshot" width="500" />
   </a>
 </p>
 
