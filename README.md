@@ -39,14 +39,17 @@
 
 ### 🗂️ Featured Projects
 
+🎬 [Movie Recommendation App](https://github.com/barun79/react_movie_app)
+A clean and responsive React-based app that recommends trending movies using the TMDB API. Features include search, genre filters, and dynamic routing.
+> 💡 Tech: JavaScript, React, Axios, TMDB API, React Router
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/barunsingh79/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/barun-singh-02b131248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/barun79)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:barunsingh9869@gmail.com)
 
 ---
 
