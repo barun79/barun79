@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Barun</h1>
 
-<!--
-**barun79/barun79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 AI Enthusiast • 💻 Developer • 📚 Lifelong Learner • 🇳🇵 From Nepal
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🌱 Currently diving deep into **AI, ML, and full-stack development**
+- 💬 I love solving real-world problems with tech
+- 📍 Based in the US 🇺🇸, originally from Nepal 🇳🇵
+- ✨ I believe in **starting small and improving continuously**
+
+---
+
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barun79&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barun79&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🗂️ Featured Projects
+
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/barunsingh79/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/barun79)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+> 🧭 "Progress isn't about big plans — it's about starting small, staying consistent, and improving in loops."
