@@ -38,7 +38,7 @@
 ---
 
 ### 🗂️ Featured Projects
-#### 🎬 [Movie Recommendation App](https://github.com/barun79/react_movie_app)
+#### 🎬 [Movie Recommendation App]
 
 <p align="left">
   <a href="https://mymovierecomendation.netlify.app/">
@@ -51,7 +51,7 @@ It allows users to browse popular movies, search by title, and explore by genres
 
 - 🔍 **Features**: Search, genre filtering, dynamic routing, responsive design  
 - 💡 **Tech Stack**: JavaScript, React, Axios, TMDB API, React Router  
-- 🌐 [Live Demo](https://mymovierecomendation.netlify.app/) • [View Code](https://github.com/barun79/react_movie_app)
+• [View Code](https://github.com/barun79/react_movie_app)
 ------
 ### 🌐 Connect with Me
 
