@@ -38,12 +38,11 @@
 ---
 
 ### 🗂️ Featured Projects
-#### 🎬 [Movie Recommendation App]
+#### 🎬 [Movie Recommendation App][https://mymovierecomendation.netlify.app]
 
 <p align="left">
   <a href="https://mymovierecomendation.netlify.app/">
     <img src="movie_re.gif" alt="Movie App Screenshot" />
-    <p>Live demo</p>
   </a>
 </p>
 
