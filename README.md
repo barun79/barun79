@@ -40,9 +40,11 @@
 ### 🗂️ Featured Projects
 
 🎬 [Movie Recommendation App](https://github.com/barun79/react_movie_app)
+<a href="https://mymovierecomendation.netlify.app/">
+  <img src="movie_app.jpeg" alt="Movie App" width="300"/>
+</a>
 A clean and responsive React-based app that recommends trending movies using the TMDB API. Features include search, genre filters, and dynamic routing.
 > 💡 Tech: JavaScript, React, Axios, TMDB API, React Router
-🔗 [View Code](https://github.com/barun79/react_movie_app) | [Live Demo](https://mymovierecomendation.netlify.app/)
 ---
 
 ### 🌐 Connect with Me
