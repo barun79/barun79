@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://ai-resume-analyzer-sigma.vercel.app/">
-    <img src="demo_.gif" alt="AI Resume Analyzer Screenshot" />
+    <img src="demo_.gif" alt="AI Resume Analyzer Screenshot" width="500"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@ It provides detailed feedback and actionable tips to improve your resume’s cha
 
 <p align="left">
   <a href="https://mymovierecomendation.netlify.app/">
-    <img src="movie_re.gif" alt="Movie App Screenshot" />
+    <img src="movie_re.gif" alt="Movie App Screenshot" width="500" />
   </a>
 </p>
 
