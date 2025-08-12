@@ -55,7 +55,7 @@ It provides detailed feedback and actionable tips to improve your resume’s cha
 
 ---
 
-#### 🎬 [Movie Recommendation App][https://mymovierecomendation.netlify.app]
+#### 🎬 [Movie Recommendation App](https://mymovierecomendation.netlify.app)
 
 <p align="left">
   <a href="https://mymovierecomendation.netlify.app/">
