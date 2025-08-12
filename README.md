@@ -38,6 +38,23 @@
 ---
 
 ### 🗂️ Featured Projects
+#### 📄 [AI Resume Analyzer](https://ai-resume-analyzer-sigma.vercel.app/)
+
+<p align="left">
+  <a href="https://ai-resume-analyzer-sigma.vercel.app/">
+    <img src="resume_analyzer.gif" alt="AI Resume Analyzer Screenshot" />
+  </a>
+</p>
+
+An AI-powered web app that evaluates resumes for ATS (Applicant Tracking System) compatibility, overall quality, and tone/style.  
+It provides detailed feedback and actionable tips to improve your resume’s chances of passing recruiter and ATS filters.
+
+- 🔍 **Features**: ATS score calculation, tone/style analysis, actionable feedback, keyword optimization tips  
+- 💡 **Tech Stack**: React, Node.js, OpenAI API, Express, Tailwind CSS, Vercel  
+• [View Code](https://github.com/barun79/ai_resume_analyzer)
+
+---
+
 #### 🎬 [Movie Recommendation App][https://mymovierecomendation.netlify.app]
 
 <p align="left">
