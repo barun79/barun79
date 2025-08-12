@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://ai-resume-analyzer-sigma.vercel.app/">
-    <img src="resume_analyzer.gif" alt="AI Resume Analyzer Screenshot" />
+    <img src="demo_.gif" alt="AI Resume Analyzer Screenshot" />
   </a>
 </p>
 
